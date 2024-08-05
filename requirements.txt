@@ -1,0 +1,5 @@
+fastapi[all]
+pytest==8.3.2
+sqlalchemy==2.0.31
+sqlalchemy[asyncio]
+asyncpg==0.29.0
